@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(196, 195, 195);
+}
+h1{
+    color:rgb(8, 8, 8);
+}
+header{
+    background-color: rgb(104, 48, 156);
+}
+.profile ul{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+.profile a{
+    display: block;
+    text-decoration: none;
+    padding:20px ;
+    text-align: center;
+    color: black;
+}
+.profile li{
+    float: right;
+    list-style-type: none;
+}
+.profile a:hover{
+    font-weight: bolder;
+    color: rgb(226, 226, 136);
+    text-decoration: underline;
+}
+img{
+    width: 300px;
+}
+
+h2{
+    float:right;
+}
+p{
+
+    overflow: hidden;
+    float: right;
+}
+
+.learnt{
+    text-align: center;
+    padding: 50px;
+}
+.project { 
+    
+}
+.project h2{
+    float: left;
+    text-align: left;
+}
+.Recommendations h2{
+    float: left;
+}
+.question h3{ 
+    text-align: center;
+
+}
+#comment{
+    margin-right: 0px;
+    background-color: #ffeeee;
+}
+#commment :placeholder{
+    font-weight:bolder;
+    color: blanchedalmond;
+}
+.question h4{
+    margin-top: 0%;
+}
